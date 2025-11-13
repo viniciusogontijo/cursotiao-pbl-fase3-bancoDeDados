@@ -21,6 +21,9 @@ Atenção ao separador decimal:
 
 Caso os valores sejam importados com ponto (.) como separador decimal, será necessário ajustar as consultas SQL para refletir essa formatação corretamente.
 
+<p>Importação da base no Oracle</p>
+https://youtu.be/BlUPposGB_E
+
 📊 Resultado Esperado
 
 Amostra do conteúdo da base:
@@ -30,3 +33,4 @@ Amostra do conteúdo da base:
 Resultado da consulta de acidez do solo:
 
 <p align="center"> <img width="562" height="72" alt="acidez_solo" src="https://github.com/user-attachments/assets/64c5366b-6349-41a0-b535-6b93aee3b59f" /> </p>
+
